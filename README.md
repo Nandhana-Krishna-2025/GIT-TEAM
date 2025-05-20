@@ -1,1 +1,3 @@
-# My first commit
+
+Test Git Assignment
+I have completed the assignment.
